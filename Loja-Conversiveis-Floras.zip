@@ -1,22 +1,45 @@
-Este projeto é um Painel de Apresentação Interativo (Web Slider) desenvolvido para o curso de Tecnologia da Informação. Ele tem um foco duplo:
+# 🏎️ Showroom Digital Flora's Conversíveis
 
-Conteúdo Temático: Exploração do avanço da tecnologia, a história dos robôs, a aplicação da Inteligência Artificial (IA) e um estudo de caso sobre o robô humanoide Tesla Optimus.
+## 📋 Descrição do Projeto
 
-Apresentação Pessoal: Demonstração das habilidades de desenvolvimento Front-End do autor e um resumo da sua Jornada em TI.
+Este repositório contém o código-fonte de um **Showroom Digital e Painel de Apresentação** interativo, desenvolvido como um projeto de estudo Front-End. O design é focado em uma experiência de usuário moderna e dinâmica, utilizando um **slider de tela cheia** para navegar entre os destaques.
 
-O design utiliza um tema dark e futurista, ideal para o tema de tecnologia, com navegação fluida por meio de um sistema de slides.
+O painel simula a vitrine online de uma loja especializada em veículos conversíveis premium.
 
-✨ Funcionalidades e Seções Principais
-O painel é dividido em seções navegáveis (slides) que cobrem os seguintes tópicos:
+## ✨ Destaques e Funcionalidades
 
-Jornada Pessoal: Apresentação do autor, suas experiências profissionais e sua paixão pela Tecnologia da Informação.
+* **Design Responsivo e Moderno:** Interface de usuário clean e com cores escuras de alto contraste.
+* **Carrossel (Slider) Interativo:** Navegação fluida entre os slides de veículos e serviços.
+* **Animações CSS:** Transições de fundo (`radial-gradient`) que mudam dinamicamente conforme o slide, criando uma sensação imersiva.
+* **Apresentação de Veículos:** Destaques para Ferrari, Porsche e Lamborghini com informações técnicas detalhadas.
+* **Seção de Serviços:** Apresentação da oficina e inclusão de vídeo demonstrativo via iframe.
+* **Download de Formulário:** Opção para o usuário baixar um formulário de contato em PDF para agendamento de serviços.
 
-Fundamentos da Robótica: Seções que exploram a origem dos robôs e a definição dos modelos atuais.
+## 🛠️ Tecnologias Utilizadas
 
-IA e Robôs: Análise de como a Inteligência Artificial auxilia no desenvolvimento robótico.
+| Tecnologia | Função Principal |
+| :--- | :--- |
+| **HTML5** | Estrutura e marcação do conteúdo. |
+| **CSS3** | Estilização, layout, animações e o controle de cores de fundo. |
+| **JavaScript (ES6+)** | Lógica de controle do slider (função `setSlider`, botões `prev` e `next`), gerenciamento de classes ativas (`active`) e indicadores de slide (`dots`). |
 
-Estudo de Caso Tesla Optimus: Detalhamento sobre o robô humanoide da Tesla, seu impacto na automação e sua importância para o futuro da tecnologia.
+## 🚀 Como Visualizar
 
-Conteúdo Audiovisual: Incorporação de vídeo (iframe) sobre o Tesla Optimus Gen 2.
+Para rodar o projeto em seu ambiente local:
 
-Funcionalidade de Slider: Utiliza botões e indicadores (dots) para transição entre as telas.
+1.  **Baixe o Repositório:** Faça o download de todos os arquivos do GitHub.
+2.  **Abra o Arquivo:** Abra o arquivo **`index.html`** em qualquer navegador (Chrome, Firefox, Edge, etc.).
+
+---
+
+## 🧑‍💻 Autor
+
+* **Yaggo Paiva Flora**
+
+---
+
+### Próximo Passo
+
+Agora você pode copiar este texto, ir ao seu repositório no GitHub (na seção onde você tem o botão **"Add a README"**), colar o conteúdo, e confirmar o *commit*.
+
+Em seguida, estou pronto para criar o `README.md` para o seu segundo projeto, o painel sobre **IA e Robôs**.
